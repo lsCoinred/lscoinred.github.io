@@ -21,7 +21,7 @@ Outside the lab, I also have some experience in embedded development and full-st
 
 ## Publication
 
-- [Under Review]
+- [Under Review] <!-- Pengcheng Wang, Zhexuan Zhang, Chao Lou, Kewei Tu. *"A Scaled-Up Empirical Study of Syntactic Language Models".* Under Review. -->
 - [Progressing]
 
 ## Honors & Awards

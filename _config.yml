@@ -23,7 +23,7 @@ repository               : "lsCoinred/lscoinred.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://cravatar.cn/avatar/8e58272bc042b257324b82f492111244?size=175&default=404"
+  avatar           : "https://avatars.githubusercontent.com/u/47453260"
   avatar_label     : "Avatar"
   avatar_alt       : "bio-photo.jpg"
   avatar_alt_label : "Photo"
