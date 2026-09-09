@@ -15,14 +15,13 @@ I am currently interested in researches in many topics involving in natural lang
 
 Beyond research, I enjoy in competitive programming contests (ICPC Silver Medalist, 2025) and spend time designing problems. I've also served as Head Teaching Assistant for several course, where I led the deployment of the online judging system and helped design course materials. These experience reinforces my own abilities while helping others gain the knowledge. 
 
-Outside the lab, I also have some experience in embedded development and full-stack development.
+Outside the lab, I also have experience in embedded development and full-stack development.
 
 **I'm currently seeking PhD / Master opportunities for 2027!** 
 
 ## Publication
 
-- [Under Review] <!-- Pengcheng Wang, Zhexuan Zhang, Chao Lou, Kewei Tu. *"A Scaled-Up Empirical Study of Syntactic Language Models".* Under Review. -->
-- [Progressing]
+- Pengcheng Wang, Zhexuan Zhang, Chao Lou, Kewei Tu, ["A Scaled-Up Empirical Study of Syntactic Language Models"](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/emnlp26-slm.pdf). *In the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*, Budapest, Hungary, October 24–29, 2026. ([Code](https://github.com/qlwpc/TG-Interpolation))
 
 ## Honors & Awards
 
